@@ -1,0 +1,16 @@
+C:\Users\Dawid\workspace\ZadFiltry\src\main\java\repository\DummyUserApplication.java
+C:\Users\Dawid\workspace\ZadFiltry\src\main\java\servlets\AllUsersServlet.java
+C:\Users\Dawid\workspace\ZadFiltry\src\main\java\filters\LoginFilter.java
+C:\Users\Dawid\workspace\ZadFiltry\src\main\java\servlets\LoginServlet.java
+C:\Users\Dawid\workspace\ZadFiltry\src\main\java\filters\UserInSessionFilter.java
+C:\Users\Dawid\workspace\ZadFiltry\src\main\java\repository\HSQLrepositry.java
+C:\Users\Dawid\workspace\ZadFiltry\src\main\java\filters\AddPremiumFilter.java
+C:\Users\Dawid\workspace\ZadFiltry\src\main\java\servlets\RegistrationServlet.java
+C:\Users\Dawid\workspace\ZadFiltry\src\main\java\domain\UserApplication.java
+C:\Users\Dawid\workspace\ZadFiltry\src\main\java\repository\UserApplicationRepository.java
+C:\Users\Dawid\workspace\ZadFiltry\src\main\java\filters\ProfileFilter.java
+C:\Users\Dawid\workspace\ZadFiltry\src\main\java\servlets\ProfileServlet.java
+C:\Users\Dawid\workspace\ZadFiltry\src\main\java\filters\PremiumFilter.java
+C:\Users\Dawid\workspace\ZadFiltry\src\main\java\servlets\AddPremiumServlet.java
+C:\Users\Dawid\workspace\ZadFiltry\src\main\java\database\HSQLconnection.java
+C:\Users\Dawid\workspace\ZadFiltry\src\main\java\filters\RegistrationFilter.java

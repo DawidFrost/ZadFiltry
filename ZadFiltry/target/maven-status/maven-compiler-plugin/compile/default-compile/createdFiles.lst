@@ -1,0 +1,5 @@
+Servlets\RegistrationServlet.class
+Servlets\ProfileServlet.class
+Servlets\AddPremiumServlet.class
+Servlets\AllUsersServlet.class
+Servlets\LoginServlet.class
